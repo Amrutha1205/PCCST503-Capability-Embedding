@@ -1,5 +1,10 @@
 # PCCST503 Assignment 2
-## Design of a Vector Embedding for Capability Composition
+## Design of a Vector Embedding for
+
+ Capability Composition
+
+Name:Amrutha K S
+Roll No:11
 
 This project implements a structured, problem-specific vector representation for application capabilities. It is based on the formal capability model in the assignment brief.
 
